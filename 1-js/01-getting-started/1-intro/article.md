@@ -1,7 +1,7 @@
 # An Introduction to JavaScript
 # JavaScript का एक परिचय
 
-{.className}{#id}This is the blockquote
+This is the blockquote{: class=callout }
 
 Let's see what's so special about JavaScript, what we can achieve with it, and which other technologies play well with it.
 Javascript में विशेष क्या है, हम इसके साथ क्या achieve कर सकते हैं, और कौन सी अन्य technologies इसके साथ अच्छा खेलती हैं।
