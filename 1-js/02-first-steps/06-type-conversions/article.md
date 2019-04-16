@@ -1,5 +1,5 @@
 # Type Conversions
-
+hello
 Most of the time, operators and functions automatically convert the values given to them to the right type. This is called "type conversion".
 
 For example, `alert` automatically converts any value to a string to show it. Mathematical operations convert values to numbers.
